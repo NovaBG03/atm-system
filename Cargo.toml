@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "common",
+    "atm",
+    "bank"
+]
+resolver = "3"
